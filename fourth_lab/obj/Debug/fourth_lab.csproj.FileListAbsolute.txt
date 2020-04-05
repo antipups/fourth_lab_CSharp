@@ -1,0 +1,9 @@
+C:\Users\kurku\Documents\C#Projects\fourth_lab_C#\fourth_lab\fourth_lab\bin\Debug\fourth_lab.exe.config
+C:\Users\kurku\Documents\C#Projects\fourth_lab_C#\fourth_lab\fourth_lab\bin\Debug\fourth_lab.exe
+C:\Users\kurku\Documents\C#Projects\fourth_lab_C#\fourth_lab\fourth_lab\bin\Debug\fourth_lab.pdb
+C:\Users\kurku\Documents\C#Projects\fourth_lab_C#\fourth_lab\fourth_lab\obj\Debug\fourth_lab.csprojAssemblyReference.cache
+C:\Users\kurku\Documents\C#Projects\fourth_lab_C#\fourth_lab\fourth_lab\obj\Debug\fourth_lab.Properties.Resources.resources
+C:\Users\kurku\Documents\C#Projects\fourth_lab_C#\fourth_lab\fourth_lab\obj\Debug\fourth_lab.csproj.GenerateResource.cache
+C:\Users\kurku\Documents\C#Projects\fourth_lab_C#\fourth_lab\fourth_lab\obj\Debug\fourth_lab.exe
+C:\Users\kurku\Documents\C#Projects\fourth_lab_C#\fourth_lab\fourth_lab\obj\Debug\fourth_lab.pdb
+C:\Users\kurku\Documents\C#Projects\fourth_lab_C#\fourth_lab\fourth_lab\obj\Debug\fourth_lab.Form1.resources
